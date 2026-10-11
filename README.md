@@ -128,4 +128,4 @@ Berdasarkan modul kelas Full-Stack Developer dari [SantriKoding](https://santrik
 
 ## Showcase
 
-https://santrikoding.com/showcases/golang-react-maikel-mbT8f
+https://santrikoding.com/showcases/golang-react-maikel-q33z5
